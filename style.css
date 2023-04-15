@@ -1,4 +1,36 @@
-.banner{
-    color:darkgreen
-
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
 }
+
+header {
+    text-align: center;
+}
+
+.banner {
+    background-image: url('banner-image.jpg'); /* Replace 'banner-image.jpg' with the path to your banner image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Add other styles as needed */
