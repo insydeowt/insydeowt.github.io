@@ -9,7 +9,7 @@ header {
 }
 
 .banner {
-    background-image: url('banner-image.jpg'); /* Replace 'banner-image.jpg' with the path to your banner image */
+    background-image: url('./images/anandu-vinod-pbxwxwfI0B4-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
